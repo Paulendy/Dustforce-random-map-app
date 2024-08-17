@@ -59,6 +59,15 @@
   margin-bottom: 2.5vw;
   align-items: center;
 }
+#lebuff-icon-container {
+  -webkit-app-region: drag;
+  display: flex;
+  position: relative;
+  height: 8vh;
+  margin-left: 0.3rem;
+  margin-bottom: 2.5vw;
+  align-items: center;
+}
 #mode {
   font-size: 13vw;
   color: #4c677f47;
@@ -123,6 +132,10 @@
 
 .none {
   color: #4a4a4a;
+}
+
+.hidden {
+  display: none;
 }
 
 #settings-icon-container {

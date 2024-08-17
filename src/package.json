@@ -1,6 +1,6 @@
 {
   "name": "Random Map App",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "views/index.html",
   "scripts": {
@@ -13,9 +13,9 @@
     "always_on_top": true,
     "transparent": true,
     "width": 200,
-    "height": 260,
+    "height": 270,
     "min_width": 200,
-    "min_height": 260,
+    "min_height": 270,
     "max_width": 250,
     "max_height": 320,
     "icon": "assets/s-complete-icon.png",

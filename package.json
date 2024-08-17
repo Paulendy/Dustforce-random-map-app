@@ -1,6 +1,6 @@
 {
   "name": "Random Map App",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/app/bundle/index.js",
   "scripts": {
     "build": "cd src/ && npm run build",
@@ -14,9 +14,8 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "browserify": "^17.0.0",
     "nw": "^0.52.2-sdk",
     "nw-builder": "^3.5.7"
-  },
-  "dependencies": {
   }
 }

@@ -9,5 +9,7 @@
   "freeSkipAfterXSolvedLevels": 10,
   "infiniteSkips": false,
   "CMPLevels": false,
-  "settingsName": "classic"
+  "settingsName": "classic",
+  "lebuffMode": false,
+  "lebuffPushupCount": 100
 }

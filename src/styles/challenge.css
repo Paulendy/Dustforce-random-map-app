@@ -22,6 +22,26 @@ body.challenge {
   margin-left: 0.5rem;
   word-break: keep-all;
 }
+#lebuff-icon-container.challenge {
+  -webkit-app-region: none !important;
+  position: relative;
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+  flex-grow: 1;
+}
+#lebuff-icon.challenge {
+  height: 9vh;
+  position: unset;
+  right: 0;
+  opacity: 1;
+}
+#lebuff-icon-text.challenge {
+  color: #c3c3c3;
+  font-size: 7vh;
+  margin-left: 0.5rem;
+  word-break: keep-all;
+}
 
 #map-info {
   margin-left: 0.5rem;

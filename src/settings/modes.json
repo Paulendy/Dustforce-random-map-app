@@ -10,7 +10,9 @@
     "freeSkipAfterXSolvedLevels": 10,
     "infiniteSkips": false,
     "CMPLevels": false,
-    "settingsName": "classic"
+    "settingsName": "classic",
+    "lebuffMode": false,
+    "lebuffPushupCount": 100
   },
 
   "rapid": {
@@ -24,7 +26,9 @@
     "freeSkipAfterXSolvedLevels": 10,
     "infiniteSkips": false,
     "CMPLevels": false,
-    "settingsName": "rapid"
+    "settingsName": "rapid",
+    "lebuffMode": false,
+    "lebuffPushupCount": 100
   },
 
   "blitz": {
@@ -38,7 +42,9 @@
     "freeSkipAfterXSolvedLevels": 0,
     "infiniteSkips": false,
     "CMPLevels": false,
-    "settingsName": "blitz"
+    "settingsName": "blitz",
+    "lebuffMode": false,
+    "lebuffPushupCount": 100
   },
 
   "casual": {
@@ -52,7 +58,9 @@
     "freeSkipAfterXSolvedLevels": 0,
     "infiniteSkips": true,
     "CMPLevels": true,
-    "settingsName": "casual"
+    "settingsName": "casual",
+    "lebuffMode": false,
+    "lebuffPushupCount": 100
   },
 
   "hard": {
@@ -66,6 +74,24 @@
     "freeSkipAfterXSolvedLevels": 0,
     "infiniteSkips": false,
     "CMPLevels": false,
-    "settingsName": "hard"
+    "settingsName": "hard",
+    "lebuffMode": false,
+    "lebuffPushupCount": 100
+  },
+
+  "lebuff": {
+    "seed": "",
+    "startTime": 3600000,
+    "minSSCount": 10,
+    "maxSSCount": 500,
+    "fastestSSTime": 60000,
+    "skips": true,
+    "freeSkips": 1,
+    "freeSkipAfterXSolvedLevels": 10,
+    "infiniteSkips": true,
+    "CMPLevels": false,
+    "settingsName": "lebuff",
+    "lebuffMode": true,
+    "lebuffPushupCount": 100
   }
 }

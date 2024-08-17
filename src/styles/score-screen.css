@@ -33,6 +33,14 @@
   align-items: center;
   flex-wrap: wrap;
 }
+
+#score-screen-lebuff-container {
+  font-size: max(8vw, 7vh);
+  /* margin-top: 0.5rem; */
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
 #new-pb-icon {
   display: none;
   width: 10vw;
